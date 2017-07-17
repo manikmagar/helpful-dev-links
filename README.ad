@@ -1,0 +1,16 @@
+# Helpful links for any developer
+
+These are the tools, applications, reference I always use.
+
+## Image creation
+* https://www.canva.com[Canva^]: A website to create free custom images, logo etc.
+
+
+## Scheduling
+* http://www.cronmaker.com/[Cronmaker^]: A very simple and useful Cron expression generator.
+
+## Software Management
+http://sdkman.io/index.html[SDKMAN^]: A CLI-based application to install and manager Software developer kits like java, scala, maven etc.
+
+## Task Management
+https://www.meistertask.com[MeisterTask^]: Manage multiple projects and tasks for free.
